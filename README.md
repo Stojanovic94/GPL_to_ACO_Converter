@@ -17,8 +17,6 @@ A user-friendly GUI application that converts GIMP palette files (.gpl) to Adobe
 
 🖼️ Scrollable preview for large palettes
 
-✅ Robust error handling and user feedback
-
 ## Requirements
 Python 3.6+
 
