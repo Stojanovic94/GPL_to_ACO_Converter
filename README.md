@@ -39,6 +39,7 @@ Click "Convert to ACO" to save the palette as a Photoshop color swatch file (.ac
 
 ## Supported File Formats
 Input: GIMP Palette files (.gpl)
+
 Output: Adobe Photoshop Color Swatch files (.aco)
 
 Compatibility
@@ -47,8 +48,6 @@ Handles UTF-8 BOM files
 Supports mixed space/tab separators
 
 Works with palettes with or without color names
-
-Compatible with both Windows and macOS
 
 Verify the palette preview matches your expectations before converting
 
